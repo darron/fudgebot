@@ -1,1 +1,1 @@
-["aws.coffee", "isup.coffee", "octospy.coffee"]
+["aws.coffee", "heroku-status.coffee", "github-status.coffee", "isup.coffee", "base36.coffee", "base58.coffee", "base64.coffee", "ip.coffee", "octospy.coffee"]
