@@ -5,6 +5,15 @@
   "author": "Darron Froese <darron@froese.org>",
   "description": "Oui sir fudgebot.",
   "dependencies": {
+    "aws2js": "^0.8.3",
+    "big-integer": "^1.2.10",
+    "cheerio": "^0.16.0",
+    "clark": "0.0.6",
+    "date-utils": "^1.2.15",
+    "dme2": "0.0.2",
+    "feedparser": "^0.17.0",
+    "githubot": "^1.0.0-beta2",
+    "handlebars": "^2.0.0-alpha.4",
     "hubot": "^2.11.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.2",
@@ -18,7 +27,15 @@
     "hubot-scripts": "^2.5.16",
     "hubot-shipit": "^0.1.1",
     "hubot-slack": "^3.2.1",
-    "hubot-youtube": "^0.1.2"
+    "hubot-youtube": "^0.1.2",
+    "hubot-uptimerobot": "0.0.2",
+    "hubot-vtr-scripts": "^1.0.5",
+    "jsdom": "^0.10.6",
+    "moment": "^2.6.0",
+    "pypi": "^0.1.2",
+    "superfeedr": "^0.2.0",
+    "twit": "^1.1.15",
+    "underscore": "^1.6.0"
   },
   "engines": {
     "node": "0.10.x"
